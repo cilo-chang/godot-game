@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cds5nljrjw5tm"
-path="res://.godot/imported/icon.svg-7e9f52b17ae6e5e1f284e12048cb8f05.ctex"
+path="res://.godot/imported/icon.svg-2f3484ef30a5251e36b9e3103bf7c199.ctex"
 metadata={
 "has_editor_variant": true,
 "vram_texture": false
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://addons/dialogic/Modules/Wait/icon.svg"
-dest_files=["res://.godot/imported/icon.svg-7e9f52b17ae6e5e1f284e12048cb8f05.ctex"]
+source_file="res://godot-game/addons/dialogic/Modules/Wait/icon.svg"
+dest_files=["res://.godot/imported/icon.svg-2f3484ef30a5251e36b9e3103bf7c199.ctex"]
 
 [params]
 

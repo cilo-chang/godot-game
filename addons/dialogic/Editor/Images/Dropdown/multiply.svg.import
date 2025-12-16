@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddmapfkunbtg7"
-path="res://.godot/imported/multiply.svg-0e9db99aafb66d43ee14adcca26c5b47.ctex"
+path="res://.godot/imported/multiply.svg-f22b0f710c4ed62c16443c0852adc52a.ctex"
 metadata={
 "has_editor_variant": true,
 "vram_texture": false
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://addons/dialogic/Editor/Images/Dropdown/multiply.svg"
-dest_files=["res://.godot/imported/multiply.svg-0e9db99aafb66d43ee14adcca26c5b47.ctex"]
+source_file="res://godot-game/addons/dialogic/Editor/Images/Dropdown/multiply.svg"
+dest_files=["res://.godot/imported/multiply.svg-f22b0f710c4ed62c16443c0852adc52a.ctex"]
 
 [params]
 

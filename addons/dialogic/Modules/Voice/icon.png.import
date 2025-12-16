@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vkvdtrxe5lxu"
-path="res://.godot/imported/icon.png-85989da147a1404ecd08c88eac72cda1.ctex"
+path="res://.godot/imported/icon.png-5e9a15afe925a4955b93fa4150676f0c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/dialogic/Modules/Voice/icon.png"
-dest_files=["res://.godot/imported/icon.png-85989da147a1404ecd08c88eac72cda1.ctex"]
+source_file="res://godot-game/addons/dialogic/Modules/Voice/icon.png"
+dest_files=["res://.godot/imported/icon.png-5e9a15afe925a4955b93fa4150676f0c.ctex"]
 
 [params]
 
